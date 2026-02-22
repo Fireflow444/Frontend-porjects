@@ -158,7 +158,7 @@ animation:bigimgani 10s ease-in-out infinite;
 }
 @keyframes bigimgani{
 0%{transform: translateX(100px) rotate(-90deg);}
-25%{transform: translateX(60px) rotate(-90deg);}
+25%{transform: translateX(50px) rotate(-90deg);}
 50%{transform: translateX(100px) rotate(-90deg);}
 75%{transform: translateX(100px) rotate(-90deg);}
 100%{transform: translateX(100px) rotate(-90deg);}
@@ -430,11 +430,11 @@ justify-content: center;
 }
 .ft-abou-heading{
 	font-weight: 400;
-	font-size:1.1rem;
+	font-size:1.3rem;
 }
 .ft-abou-desc{
 	width:260px;
-	font-size:0.9rem;
+	font-size:1.1rem;
 }
 			
 					/*cata link boxs*/
