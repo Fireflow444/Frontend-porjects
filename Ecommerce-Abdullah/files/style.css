@@ -56,6 +56,7 @@ text-decoration: none;
 	align-items: center;
 }
 .btn-box>.btn{
+	padding:3px;
 	text-decoration: none;
 	color:var(--b-clr);
 	font-family: Inika;
@@ -63,6 +64,7 @@ text-decoration: none;
 }
 .btn-box>.btn:active{
 	outline-offset: 10px;
+	border-left: none;
 	border-bottom:2px solid var(--b-clr); 
 	/*text-decoration: underline;*/
 }
