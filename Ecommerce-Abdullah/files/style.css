@@ -186,6 +186,7 @@ justify-content: space-around;
 align-items: center;
 }
 .cata-btn{
+	text-decoration: none;
 	cursor:pointer;
 	color:var(--p-l-clr);
 	font-family:Inika;
