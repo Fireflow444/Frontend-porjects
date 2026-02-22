@@ -1,0 +1,48 @@
+__Basic detials:
+* Bussnies category: Women clothes .
+* Target audience  : Womens age_35-18yr.
+* StartUp status   : New Startup.
+* Purpose          : Selecting Guidences and purchasing the products. 
+* Emotion          : Trusthful,fashion,love.
+* Color comb       : bg(#FFF4FD),bl(#6068FF),rd(#CC1010),purp(#880BAB),lightpur(#AE32D0).
+* Platform category: Fashionable,royality. 
+
+style_on_root:
+Ex== i)name :color font . 
+
+1)Bg		:	#FFF4FD .
+2)logo		:	#880BAB	ft-name: Italianno (imp1).
+3)Nav-bar btn	:	#000	ft-name: Inika (imp2).
+4)Hero-heading	:	#880BAB	ft-name: Inria Serif (imp3).
+5)Pre-heading	:	(3)	ft-name: Inria Serif(imp3).
+6)Hro-img-shdw  :	#131314	y=2 blur=24 .
+7)Hro-img-ani-tx:	(2)	ft-name: Istok Web(imp4).	
+8)Select-box	:	(2).
+9)Select-btn	:  #fff hover:(2) ft-name: Inika(imp).
+10)Pdt-mn-cont	:	(9) drp-sh: #1D27DA blur=7.
+11)Pdts-card	:	(9) drp-sh: #000 blur=12.
+12)Pdts-title	:	(3) ft-name: Inknut Antiqua(imp5).
+13)Pdts-discr	:	#333	ft-name: Inika(imp2).
+14)Pdts-price	:	(3)	ft-name:Inika(imp2) ,weight = bold.
+15)Pdt-Remn-qut	: rem= #CC1010 , total= (3) ft-name:Inder (imp6).
+16)Buy-now-btn	:	#400C4E	.
+17)Branding-cont:	(9) doted.
+18)Discount-bx	:	(15).
+19)Discnt-bx-tx	:	#FBEB36 ft-name:Inder (imp6).
+20)Footer-bx	:	#400C4E.
+21)Ftr-hd	:	(9)	ft-name:inder imp(6).
+22)Ftr-descr	:	all(21) small size.
+23)Cat-lnk-hd-tx:	#9DFE5C ft-name:Imprima imp(7).
+24)Cat-lnk-txt	:	(9)	ft-name:(23).
+25)Cat-domi-lnk	:	#25D366.
+
+
+Function-selection:
+1)Product-cata-selection: product cards fecthing adding.
+2)Branding-box:Logos imgs store on array. 
+3)Offer-section:offer-box percentage change all products rate a adjust according to thier off%.
+4)Click buy-now :Next product page aur section will open function and  fetching data about clicked product.
+5)Purchase-click-section:Click pruchase go whatsapp and msg fill with username,product-id,product-cata,product-price,resent-offer,provience,city,date-time.
+
+
+
