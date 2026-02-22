@@ -150,19 +150,18 @@ overflow:hidden;
 .pre-heading-eft{
 color:var(--p-d-clr);
 font-family: Istok Web;
-font-size: 3rem;
+font-size: 2.4rem;
 position: relative;
-left:10px;
 transform: rotate(-90deg) translateY(110px);
 animation-delay: 2s;
 animation:bigimgani 10s ease-in-out infinite;
 }
 @keyframes bigimgani{
-0%{transform: translateX(110px) rotate(-90deg);}
-25%{transform: translateX(0px) rotate(-90deg);}
-50%{transform: translateX(110px) rotate(-90deg);}
-75%{transform: translateX(110px) rotate(-90deg);}
-100%{transform: translateX(110px) rotate(-90deg);}
+0%{transform: translateX(100px) rotate(-90deg);}
+25%{transform: translateX(50px) rotate(-90deg);}
+50%{transform: translateX(100px) rotate(-90deg);}
+75%{transform: translateX(100px) rotate(-90deg);}
+100%{transform: translateX(100px) rotate(-90deg);}
 
 }
 
