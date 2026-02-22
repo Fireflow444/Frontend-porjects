@@ -447,6 +447,7 @@ justify-content: center;
 }
 
 .st-social-lnk{
+	padding: 10px;
 	display: flex;
 	flex-flow: column;
 	justify-content:center;
@@ -454,11 +455,11 @@ justify-content: center;
 	gap:8px;
 }
 .ft-hd-lnk{
-	font-size:1rem;
+	font-size:1.3rem;
 	color:var(--ft-lnk-hd-clr);
 }
 .ft-social-lnk{
-	font-size: 0.8rem;
+	font-size: 1rem;
 	color:var(--w-l-clr);
 	text-decoration: none;
 }
