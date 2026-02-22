@@ -112,6 +112,7 @@ height:180px;
 
 /* footer section */
 .ft{
+	flex-flow: row; 
 	justify-content: space-around;
 	gap:30px;
 	margin-top:80px;
@@ -128,6 +129,7 @@ height:180px;
 		/* link section */
 .ft-cata-lnk-main-cont{
 	gap:60px;
+	flex-flow: row;
 	font-family:Imprima;
 }
 
